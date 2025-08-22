@@ -7,7 +7,7 @@ title: Saifuzzaman Tanim
 
 ![Profile photo](profile.png){: style="max-width:200px;"}
 
-**Email:** saifuzzaman.tanim48@bcmail.cuny.edu  
+**Email:** saifuzzamantanim550@gmail.com
 **GitHub:** [github.com/SaifuzzamanTanim550](https://github.com/SaifuzzamanTanim550)  
 **LinkedIn:** <YOUR LINKEDIN URL HERE>
 
