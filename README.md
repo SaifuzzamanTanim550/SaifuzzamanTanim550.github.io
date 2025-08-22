@@ -13,9 +13,12 @@ title: Saifuzzaman Tanim
 
 ---
 
-## About
-I am a Computer Science student at CUNY Brooklyn College with a Minor in Data Science, expected to graduate in May 2026.  
-I am passionate about creating efficient solutions, leveraging automation, and working with data to deliver clear and actionable insights.  
+## Skills
+- **Languages:** Python, Java, C++, SQL, C#  
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, Matplotlib, Google Colab, Jupyter Notebook  
+- **Dev Tools:** Git, GitHub, Visual Studio Code, Bash  
+- **Other Tools:** Microsoft Copilot Studio, Excel, SharePoint  
+- **Certifications:** IBM Data Science Professional Certificate (In Progress)  
 
 **Fun fact:** I enjoy playing cricket in my free time.
 
