@@ -1,0 +1,53 @@
+/* Base */
+:root{--bg:#f6f7f9;--text:#222;--muted:#5d6b82;--line:#e0e4ec;--blue:#2a68c5}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text);}
+.container{max-width:980px;margin:0 auto;padding:0 20px}
+
+/* Hero */
+.hero{
+  background:
+    radial-gradient(circle at 20% 20%, rgba(255,255,255,.10) 0 2px, transparent 3px) 0 0/60px 60px,
+    radial-gradient(circle at 70% 40%, rgba(255,255,255,.08) 0 2px, transparent 3px) 30px 30px/60px 60px,
+    linear-gradient(#2f77d3,#1f5fb4);
+  color:#fff;
+}
+.hero-inner{max-width:980px;margin:0 auto;padding:48px 20px 60px;position:relative}
+.hero h1{font-family:"Patrick Hand", cursive;font-size:68px;line-height:.95;margin:0 0 14px}
+.hero .tagline{font-family:"Patrick Hand", cursive;font-size:24px;margin:0 0 10px;opacity:.95}
+.github-badge{position:absolute;right:20px;top:24px;}
+.github-badge img{height:54px;border-radius:10px;opacity:.95}
+
+/* Intro */
+.intro{position:relative; padding:28px 0 0}
+.generated{position:absolute;right:0;top:8px;color:var(--muted);font-size:14px}
+.avatar{display:block;margin:18px auto 10px;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 10px 28px rgba(0,0,0,.12)}
+.quick-links ul{margin-top:6px}
+.quick-links a{color:#2a68c5}
+
+/* Headings with leading slash */
+.slash{font-family:"Patrick Hand", cursive;font-size:32px;margin:26px 0 10px;position:relative}
+.slash:before{content:"// ";color:#2a68c5;margin-right:4px}
+.section{padding:6px 0 14px;border-top:1px solid var(--line)}
+.section ul{line-height:1.8}
+.meta,.exp-meta{color:var(--muted);font-size:14px;margin:4px 0 6px}
+
+.project-list .meta{margin-top:2px}
+.exp-list>li{margin-bottom:14px}
+
+/* Resume embed */
+.embed-box{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#fff}
+.embed-box iframe{width:100%;height:720px;border:0}
+
+/* Footer */
+.footer{border-top:1px solid var(--line);margin-top:22px}
+.footer .container{padding:18px 20px;color:var(--muted)}
+
+/* Small screens */
+@media (max-width:640px){
+  .hero h1{font-size:48px}
+  .hero .tagline{font-size:20px}
+  .github-badge img{height:46px}
+  .embed-box iframe{height:520px}
+}
