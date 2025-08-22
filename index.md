@@ -21,9 +21,11 @@ I am passionate about creating efficient solutions, leveraging automation, and w
 
 
 ## Skills
-- **Programming:** Python, Java, C++, SQL  
-- **Technologies:** Git/GitHub, Pandas, NumPy, Microsoft Copilot Studio, Excel, SharePoint  
-- **Certifications:** IBM Data Science Professional Certificate (in progress)
+- **Languages:** Python, Java, C++, SQL, C#  
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, Matplotlib, Google Colab, Jupyter Notebook  
+- **Dev Tools:** Git, GitHub, Visual Studio Code, Bash  
+- **Other Tools:** Microsoft Copilot Studio, Excel, SharePoint  
+- **Certifications:** IBM Data Science Professional Certificate (In Progress)  
 
 ## Projects
 **RCMS AI Agent** (work project, Jun 2025)  
