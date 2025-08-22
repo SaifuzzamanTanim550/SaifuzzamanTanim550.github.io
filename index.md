@@ -14,8 +14,14 @@ title: Saifuzzaman Tanim
 ---
 
 ## About
-I am a Computer Science student at CUNY Brooklyn College (Minor in Data Science). I like building simple tools, cleaning data, and making things easy to use. I am a fellow in CUNY Tech Prep (Data Science Track).  
-**Fun fact:** I captain a youth cricket team (Joy Bangla CC).
+I am a Computer Science student at CUNY Brooklyn College with a Minor in Data Science, expected to graduate in May 2026.  
+I am passionate about creating efficient solutions, leveraging automation, and working with data to deliver clear and actionable insights.  
+
+I am currently a fellow in **CUNY Tech Prep’s Data Science Track**, where I focus on Python, data wrangling, machine learning, and visualization.  
+Previously, I interned at the **NYC School Construction Authority**, where I designed and deployed an AI chatbot using Microsoft Copilot Studio and SQL.  
+
+**Fun fact:** I captain a youth cricket team during the summer.
+
 
 ## Skills
 - **Programming:** Python, Java, C++, SQL  
